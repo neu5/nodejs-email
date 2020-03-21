@@ -13,5 +13,8 @@
     "node",
     "heroku"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^6.5.5"
+  }
 }
